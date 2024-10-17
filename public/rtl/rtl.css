@@ -1,0 +1,281 @@
+@media screen and (max-width: 679px) {
+  .button-group button {
+    width: 230px !important;
+    height: 48px !important;
+    font-size: 14px !important;
+    padding: 0 10px !important;
+  }
+  .dropdown-content.show {
+    margin-left: 10px;
+  }
+  .dropdown {
+    margin-top: 0px !important;
+  }
+  .services-context-details {
+    padding-left: 0 !important;
+  }
+  .dropdown .dropbtn {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 28px 12px 8px;
+  }
+}
+.left-side {
+  width: 70%;
+  direction: rtl;
+  padding: 8% 90px 94px 0;
+}
+.banner-title h1 {
+  color: #fff;
+  display: inline;
+  font-size: 60px;
+  max-width: 700px;
+  margin-bottom: 28px !important;
+}
+.banner-title img {
+  margin-top: 10px !important;
+}
+.button-group a {
+  font-size: 20px;
+}
+p {
+  direction: rtl !important;
+  text-align: justify !important;
+}
+.partBottom .testimonial-text p {
+  direction: rtl !important;
+  font-size: 16px;
+  font-weight: 300;
+}
+.button-group button {
+  margin-left: 32px;
+  display: flex;
+  margin-right: 0;
+  flex-direction: row-reverse;
+}
+.option img {
+  margin-top: 20px;
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
+.banner-cta {
+  width: 50%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  padding-right: 8%;
+  margin-top: -15%;
+  position: relative;
+  z-index: 10;
+}
+.banner-cta svg {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
+.HomeContact-container form {
+  display: flex;
+  padding: 60px 8% 10px 4%;
+}
+.HomeAbout-button .exprience {
+  width: 324px;
+  height: 58px !important;
+  text-align: center;
+  border-radius: 10px 90px 10px 10px;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffff;
+  margin-left: 32px;
+  justify-content: center;
+  background: linear-gradient(100.6deg, #1c384c 0%, #162e53 100%);
+  -webkit-border-radius: 10px 90px 10px 10px;
+  -moz-border-radius: 10px 90px 10px 10px;
+  -ms-border-radius: 10px 90px 10px 10px;
+  -o-border-radius: 10px 90px 10px 10px;
+}
+.HomeAbout-button img {
+  transform: rotate(180deg);
+}
+.copyRight p {
+  text-align: center !important;
+}
+ul {
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+.footer-explore h3 {
+  padding-right: 16px;
+}
+.footer-contact ul li a img {
+  margin-left: 10px;
+}
+.card img {
+  position: absolute;
+  left: 35px;
+  right: auto !important;
+  top: 33px;
+}
+.card-body .details {
+  padding: 0 23px;
+}
+.see-more-button img {
+  transform: rotate(180deg);
+}
+.dlab-accordion .card-body {
+  padding: 15px 4px;
+}
+.overlay-detail img {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  margin-right: 10px;
+}
+.details-desction:first-child img {
+  width: 40px;
+  height: 30px;
+  transform: rotate(210deg);
+  margin-left: 16px;
+  margin-top: -2px;
+  margin-right: 0;
+  -webkit-transform: rotate(210deg);
+  -moz-transform: rotate(210deg);
+  -ms-transform: rotate(210deg);
+  -o-transform: rotate(210deg);
+}
+
+.services-context-details {
+  margin-bottom: 100px;
+  padding-left: 16px;
+}
+.contactAbout span {
+  width: 70px;
+  position: absolute;
+  z-index: 10;
+  right: 155px;
+  height: 2px;
+  background-color: white;
+}
+.blogconent-conatiner a img {
+  margin-right: 10px;
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
+.titleBox .line {
+  width: 40px;
+  height: 2px;
+  background: #fff;
+  margin-left: 30px;
+  margin-right: 0;
+}
+.commentform button img {
+  transform: rotate(180deg);
+  margin-right: 30px;
+  margin-left: 0;
+}
+.ml-3,
+.mx-3 {
+  margin-right: 1rem !important;
+}
+.blog-image-conatiner .admin {
+  position: absolute;
+  width: 400px;
+  border-radius: 15px;
+  right: 18px;
+  bottom: 18px;
+  height: 45px;
+  display: flex;
+  border-radius: '30px';
+  align-items: center;
+  padding: 14px 24px;
+  background: linear-gradient(100.6deg, #1c384c 0%, #162e53 100%);
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.breadcrumb-item.active {
+  display: flex;
+  justify-content: space-between;
+}
+/* .breadcrumb li {
+  min-width: 60px;
+  margin: 0 2px !important;
+} */
+.breadcrumb-item + .breadcrumb-item::before {
+  margin: 0 10px;
+}
+.ml-2,
+.mx-2 {
+  margin-right: 0.5rem !important;
+}
+.title-container p {
+  text-align: center !important;
+}
+.Menue p {
+  text-align: center !important;
+}
+.part3 {
+  width: 120px;
+  display: flex;
+  justify-content: left !important;
+}
+.dropdown .dropbtn {
+  display: flex !important;
+  flex-direction: row !;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 8px 0 28px;
+}
+@media (min-width: 700px) and (max-width: 1200px) {
+  .contactAbout span {
+    width: 70px;
+    position: absolute;
+    z-index: 10;
+    right: 100px !important;
+    height: 2px;
+    background-color: white;
+  }
+}
+@media screen and (max-width: 679px) {
+  .treatment-container .contactAbout .input {
+    position: relative;
+    width: 60%;
+    padding-left: 50% !important;
+    padding: 0 55px 25px 20px !important;
+    margin: 108px 50px;
+    height: 98px;
+    border: 3px solid #12203a;
+    border-radius: 10px;
+    color: #fff;
+    border-bottom-left-radius: 90px;
+    background: linear-gradient(92.14deg, #12203a 0%, #0f1b3d 100%);
+  }
+  .contactAbout span {
+    right: 17px !important;
+  }
+  .contactAbout a {
+    padding-right: 20px;
+    margin-right: 10px;
+  }
+}
+.cases button img {
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
